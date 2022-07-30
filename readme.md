@@ -1,4 +1,4 @@
-[![image] (https://images.pexels.com/photos/2745258/pexels-photo-2745258.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](#)
+[![image](https://images.pexels.com/photos/2745258/pexels-photo-2745258.jpeg)](#)
 
 
 ## Hi there 👋 Nice to see u.
@@ -28,7 +28,7 @@
 </P>
 
 ### aptitude 🎮
-> Computer Programming
+> - Computer Programming
 
 ### Tools ⚒
 <p align="left">
