@@ -1,4 +1,4 @@
-[![image](https://images.pexels.com/photos/2745258/pexels-photo-2745258.jpeg)](#)
+[![image](pexels-photo-2745258.jpeg)](#)
 
 
 ## Hi there 👋 Nice to see u.
@@ -22,7 +22,7 @@
   </a>
 
 <a href="#">
-    <img src="svg/dev/languages/C_Programming_Language.svg" alt="C_Programming_Language" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>
 
 </P>
