@@ -1,5 +1,4 @@
-[![image](https://i.pinimg.com/originals/99/c3/b2/99c3b240b8a64b392a009f6192c2afd1.jpg)](#)
-
+[![image](https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg)](#)
 
 ## Hi there 👋 Nice to see u.
 
